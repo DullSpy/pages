@@ -1,1 +1,6 @@
+title: kingkongwu Gitbook
 remote_theme: sighingnow/jekyll-gitbook
+syntax_highlighter_style: colorful
+
+toc:
+  enabled: true

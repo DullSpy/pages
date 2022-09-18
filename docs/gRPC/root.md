@@ -49,3 +49,7 @@ myServer := grpc.NewServer(
 )
 
 ```
+```mermaid
+graph TB;
+A-->B--C-.->D
+```
